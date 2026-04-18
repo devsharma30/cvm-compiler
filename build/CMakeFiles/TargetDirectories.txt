@@ -1,3 +1,0 @@
-C:/CVM++ Project/build/CMakeFiles/cvm.dir
-C:/CVM++ Project/build/CMakeFiles/edit_cache.dir
-C:/CVM++ Project/build/CMakeFiles/rebuild_cache.dir
